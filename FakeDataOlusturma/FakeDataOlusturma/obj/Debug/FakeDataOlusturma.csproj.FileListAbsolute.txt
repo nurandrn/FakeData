@@ -1,0 +1,10 @@
+E:\13.03.2019\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup3_OOP\FakeData---Nuran\FakeDataOlusturma\FakeDataOlusturma\bin\Debug\FakeDataOlusturma.exe.config
+E:\13.03.2019\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup3_OOP\FakeData---Nuran\FakeDataOlusturma\FakeDataOlusturma\bin\Debug\FakeDataOlusturma.exe
+E:\13.03.2019\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup3_OOP\FakeData---Nuran\FakeDataOlusturma\FakeDataOlusturma\bin\Debug\FakeDataOlusturma.pdb
+E:\13.03.2019\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup3_OOP\FakeData---Nuran\FakeDataOlusturma\FakeDataOlusturma\obj\Debug\FakeDataOlusturma.csprojAssemblyReference.cache
+E:\13.03.2019\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup3_OOP\FakeData---Nuran\FakeDataOlusturma\FakeDataOlusturma\obj\Debug\FakeDataOlusturma.Form1.resources
+E:\13.03.2019\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup3_OOP\FakeData---Nuran\FakeDataOlusturma\FakeDataOlusturma\obj\Debug\FakeDataOlusturma.Properties.Resources.resources
+E:\13.03.2019\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup3_OOP\FakeData---Nuran\FakeDataOlusturma\FakeDataOlusturma\obj\Debug\FakeDataOlusturma.csproj.GenerateResource.cache
+E:\13.03.2019\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup3_OOP\FakeData---Nuran\FakeDataOlusturma\FakeDataOlusturma\obj\Debug\FakeDataOlusturma.csproj.CoreCompileInputs.cache
+E:\13.03.2019\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup3_OOP\FakeData---Nuran\FakeDataOlusturma\FakeDataOlusturma\obj\Debug\FakeDataOlusturma.exe
+E:\13.03.2019\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup3_OOP\FakeData---Nuran\FakeDataOlusturma\FakeDataOlusturma\obj\Debug\FakeDataOlusturma.pdb
